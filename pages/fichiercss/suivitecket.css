@@ -1,0 +1,40 @@
+
+.image-logo{ width: 15%; 
+    margin-left: 40%;}
+    .div1{ background-color:aliceblue;}
+    .onwan1{
+        color:#09354E;
+        margin-left:30% ;
+        margin-top: -2%;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+    .onwan2{ color:cadetblue;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 20%;}
+    .onwan8{
+        text-align: center;
+        color:#09354E;
+    }
+    .formm{
+        max-width: 600px;
+    margin: 50px auto;
+    padding: 20px;
+    background-color:aliceblue;
+    border-radius: 8px;
+    display: block;
+    font-weight: bold;
+    font-size: 145%;
+    }
+    .botton1{background-color:#2FB9A8;
+    margin:2%;
+    display: block;
+    font-weight: bold;}
+    .botton2{background-color:#2FB9A8; 
+     margin-left: 60%;
+     display: block;
+     font-weight: bold;
+     margin-top: -5%;
+
+    }
+    .one{ margin-left: 5%;}
+    .onee{ margin-left: 28%;}
