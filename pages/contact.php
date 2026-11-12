@@ -160,7 +160,7 @@ function sendMail($nom, $email, $telephone, $entreprise, $message) {
         $mail->Host = 'smtp.gmail.com'; // Serveur SMTP
         $mail->SMTPAuth = TRUE;//Active l'authentification SMTP.
         $mail->Username = 'tsite1496@gmail.com'; // Votre adresse e-mail
-        $mail->Password = 'xrth jvqo qtot ddwl'; // Mot de passe d'application GmailC'est un mot de passe d'application généré via les paramètres de sécurité de Google.
+        $mail->Password = 'VOTRE_MOT_DE_PASSE_APPLICATION'; // Mot de passe d'application GmailC'est un mot de passe d'application généré via les paramètres de sécurité de Google.
         $mail->SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS;
         $mail->Port = 587;
 

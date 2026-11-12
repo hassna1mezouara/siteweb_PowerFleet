@@ -105,7 +105,7 @@ function sendTicketEmail($clientEmail, $ticketID) {
         $mail->Host = 'smtp.gmail.com'; // Serveur SMTP
         $mail->SMTPAuth = true;
         $mail->Username = 'tsite1496@gmail.com'; // Votre adresse Gmail
-        $mail->Password = 'xrth jvqo qtot ddwl'; // Mot de passe d'application Gmail
+        $mail->Password = 'VOTRE_MOT_DE_PASSE_APPLICATION'; // Mot de passe d'application Gmail
         $mail->SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS;
         $mail->Port = 587;
 
